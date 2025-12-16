@@ -1,0 +1,31 @@
+Municipality,COI Bucket,Indicator,Score,Source,Current Status,4Rs Impact
+Manila,Housing / Shelter,Structural integrity of dwellings and shelter access,3,Dummy Data,Dummy / Testing,Recovery / Risk
+Manila,Mobility / Access,Road and transport network functionality,7,Dummy Data,Dummy / Testing,Response / Resilience
+Manila,Social / Community Capital,Strength of local networks and trust,7,Dummy Data,Dummy / Testing,Resilience / Recovery
+Manila,Resource Adaptation / Flexibility,Adaptive use of local facilities,2,Dummy Data,Dummy / Testing,Response / Recovery
+Manila,Governance / Coordination,Functionality of local councils and coordination,5,Dummy Data,Dummy / Testing,Resilience / Risk
+Manila,Risk Perception & Communication,Community awareness of hazards,7,Dummy Data,Dummy / Testing,Risk / Response
+Quezon City,Housing / Shelter,Structural integrity of dwellings and shelter access,6,Dummy Data,Dummy / Testing,Recovery / Risk
+Quezon City,Mobility / Access,Road and transport network functionality,5,Dummy Data,Dummy / Testing,Response / Resilience
+Quezon City,Social / Community Capital,Strength of local networks and trust,6,Dummy Data,Dummy / Testing,Resilience / Recovery
+Quezon City,Resource Adaptation / Flexibility,Adaptive use of local facilities,3,Dummy Data,Dummy / Testing,Response / Recovery
+Quezon City,Governance / Coordination,Functionality of local councils and coordination,7,Dummy Data,Dummy / Testing,Resilience / Risk
+Quezon City,Risk Perception & Communication,Community awareness of hazards,8,Dummy Data,Dummy / Testing,Risk / Response
+Cebu City,Housing / Shelter,Structural integrity of dwellings and shelter access,2,Dummy Data,Dummy / Testing,Recovery / Risk
+Cebu City,Mobility / Access,Road and transport network functionality,1,Dummy Data,Dummy / Testing,Response / Resilience
+Cebu City,Social / Community Capital,Strength of local networks and trust,4,Dummy Data,Dummy / Testing,Resilience / Recovery
+Cebu City,Resource Adaptation / Flexibility,Adaptive use of local facilities,1,Dummy Data,Dummy / Testing,Response / Recovery
+Cebu City,Governance / Coordination,Functionality of local councils and coordination,1,Dummy Data,Dummy / Testing,Resilience / Risk
+Cebu City,Risk Perception & Communication,Community awareness of hazards,3,Dummy Data,Dummy / Testing,Risk / Response
+Davao City,Housing / Shelter,Structural integrity of dwellings and shelter access,6,Dummy Data,Dummy / Testing,Recovery / Risk
+Davao City,Mobility / Access,Road and transport network functionality,7,Dummy Data,Dummy / Testing,Response / Resilience
+Davao City,Social / Community Capital,Strength of local networks and trust,1,Dummy Data,Dummy / Testing,Resilience / Recovery
+Davao City,Resource Adaptation / Flexibility,Adaptive use of local facilities,2,Dummy Data,Dummy / Testing,Response / Recovery
+Davao City,Governance / Coordination,Functionality of local councils and coordination,7,Dummy Data,Dummy / Testing,Resilience / Risk
+Davao City,Risk Perception & Communication,Community awareness of hazards,1,Dummy Data,Dummy / Testing,Risk / Response
+Iloilo City,Housing / Shelter,Structural integrity of dwellings and shelter access,6,Dummy Data,Dummy / Testing,Recovery / Risk
+Iloilo City,Mobility / Access,Road and transport network functionality,3,Dummy Data,Dummy / Testing,Response / Resilience
+Iloilo City,Social / Community Capital,Strength of local networks and trust,4,Dummy Data,Dummy / Testing,Resilience / Recovery
+Iloilo City,Resource Adaptation / Flexibility,Adaptive use of local facilities,8,Dummy Data,Dummy / Testing,Response / Recovery
+Iloilo City,Governance / Coordination,Functionality of local councils and coordination,6,Dummy Data,Dummy / Testing,Resilience / Risk
+Iloilo City,Risk Perception & Communication,Community awareness of hazards,5,Dummy Data,Dummy / Testing,Risk / Response
